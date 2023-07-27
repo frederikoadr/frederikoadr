@@ -5,7 +5,7 @@
 -------
 
 # 🤔 About Me:
-🎓 Software Engineer with a Bachelor's degree in Computer Engineering<br>👨‍💻 4 years student + 1 year of experience in software development<br>🚀 Enthusiastic about general software development<!--<br>💼 Currently working as a backend developer junior using Go--><br>🎮 Background in game technology and Unity C#<br>🤓 Let's discuss leetcode problems<br>🎵 Fun fact i like music, you can ask me about music
+🎓 Software Engineer with Bachelor of Computer Engineering<br>👨‍💻 4 years student + 1 year of experience in software development<br>🚀 Enthusiastic about general software development<!--<br>💼 Currently working as a backend developer junior using Go--><br>🎮 Background in game technology and Unity C#<br>🤓 Let's discuss leetcode problems<br>🎵 Fun fact i like music, you can ask me about music
 
 
 ## 🌐 Socials:
