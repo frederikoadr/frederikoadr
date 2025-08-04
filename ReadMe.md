@@ -5,7 +5,7 @@
 -------
 
 # 🤔 About Me:
-🎓 Software Engineer with Bachelor of Computer Engineering<br>👨‍💻 4 years student + 2 year of experience in software development<br>🚀 Enthusiastic about general software development<br>💼 Go backend developer<br>🎮 Background in game technology and Unity C#<br>
+🎓 Software Engineer with Bachelor of Computer Engineering<br>👨‍💻 4 years student + 2 year of experience in software development<br>🚀 Enthusiastic about software engineering, particularly in backend development and game dev & theory<br>💼 Go backend developer<br>🎮 Background in game technology and Unity C#<br>  
 
 
 ## 🌐 Socials:
